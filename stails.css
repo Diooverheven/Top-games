@@ -1,0 +1,23 @@
+.promo{
+    background-color: blueviolet;
+    color:aliceblue;text-align: center;
+height: 50vh;   
+}
+h1{
+    padding-top: 170px;
+ font-size: 50px;
+}
+h2{
+    padding: 170px;
+    font-size: 50px;
+
+}
+img-Png.png{
+width: 25px;
+float: right;
+border-radius: 100px;
+}
+h3{
+    text-align: center;
+    font-size: 25px
+}
